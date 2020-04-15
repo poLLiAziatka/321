@@ -9,6 +9,8 @@ print('branch 2')
 print('continue')
 print('cccc')
 print('bbbbbb')
+print(44)
+print('xttt')
 print('branch 3')
 
 print("прикольно")
