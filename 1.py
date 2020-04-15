@@ -9,3 +9,5 @@ print('continue')
 print('cccc')
 print('bbbbbb')
 print('branch 3')
+
+print("прикольно")
